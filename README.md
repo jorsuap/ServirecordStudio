@@ -4,5 +4,5 @@
 
 ## Welcome! 👋
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Servirecord Studios](https://servirecordstudios.com/) Visit the site and give me your opinion, thank you
 
